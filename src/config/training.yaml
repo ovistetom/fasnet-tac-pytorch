@@ -1,0 +1,65 @@
+training:
+  batch_size: 12
+  num_epochs: 100
+  num_workers: 4
+  grad_max_norm: 1.0
+  continue_from:
+
+model:
+  model_name: fasnet_tac
+  model_args:
+    enc_dim: 64
+    win_len: 4
+    context_len: 16
+    feature_dim: 64
+    hidden_dim: 128
+    layer: 4
+    segment_size: 50
+    nspk: 1
+  mic: 4
+
+criterion:
+  waveform_criterion_name: LossL1
+  waveform_criterion_scale: 1.0
+  waveform_criterion_args: 
+    reduction: sum
+  specgram_criterion_name: LossSTFT
+  specgram_criterion_scale: 0.25
+  specgram_criterion_args:
+    reduction: sum
+    win_size: 512
+    hop_size: 256
+    win_func: hamming
+    beta: 0.0
+    norm: 1
+    comp: 1.0
+    center: False
+  param_clean_criterion_name:
+  param_clean_criterion_scale: 0.25
+  param_clean_criterion_args:
+    reduction: sum
+    vector_norm_ord: 1
+  param_noise_criterion_name:
+  param_noise_criterion_scale: 0.25
+  param_noise_criterion_args:
+    reduction: sum
+    vector_norm_ord: 1    
+
+optimizer:
+  optimizer_name: Adam
+  optimizer_args:
+    lr: 0.001
+    weight_decay: 0.00001
+    amsgrad: False
+
+scheduler:
+  scheduler_name: ReduceLROnPlateau
+  scheduler_args:
+    mode: min
+    factor: 0.5
+    patience: 3
+
+dataloader:
+  num_samples_trn: 60000
+  num_samples_val: 6000
+  fixed_ref_mic: 0

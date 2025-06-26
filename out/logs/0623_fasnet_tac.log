@@ -1,0 +1,460 @@
+*** START TRAINING ***
+
+---------------------------------------
+Num. Parameters: 2.754M | Num. MACs: 36.957G
+---------------------------------------
+Initializing solver from scratch.
+---------------------------------------
+Model has 2755215 trainable parameters.
+---------------------------------------
+Train Summary | Epoch 00 | Loss = 272470461.9873046875
+Valid Summary | Epoch 00 | Loss = 10501952.3164062500
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 01 | Loss = 99871837.1826171875
+Valid Summary | Epoch 01 | Loss = 9129654.6230468750
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 02 | Loss = 91151977.1303710938
+Valid Summary | Epoch 02 | Loss = 8694397.8588867188
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 03 | Loss = 86278475.8374023438
+Valid Summary | Epoch 03 | Loss = 8292756.1333007812
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 04 | Loss = 83236830.5893554688
+Valid Summary | Epoch 04 | Loss = 8042905.6630859375
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 05 | Loss = 80964249.3510742188
+Valid Summary | Epoch 05 | Loss = 7822179.9995117188
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 06 | Loss = 79753135.5571289062
+Valid Summary | Epoch 06 | Loss = 8074218.2543945312
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 07 | Loss = 78478320.1123046875
+Valid Summary | Epoch 07 | Loss = 7716817.2294921875
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 08 | Loss = 77207074.6640625000
+Valid Summary | Epoch 08 | Loss = 7617671.4399414062
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 09 | Loss = 76595487.0034179688
+Valid Summary | Epoch 09 | Loss = 7618964.6533203125
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 10 | Loss = 75785843.1289062500
+Valid Summary | Epoch 10 | Loss = 7660120.9790039062
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 11 | Loss = 75340308.4858398438
+Valid Summary | Epoch 11 | Loss = 7440547.8129882812
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 12 | Loss = 74975892.3374023438
+Valid Summary | Epoch 12 | Loss = 7536237.9194335938
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 13 | Loss = 74640749.0214843750
+Valid Summary | Epoch 13 | Loss = 7367400.5541992188
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 14 | Loss = 74210320.1660156250
+Valid Summary | Epoch 14 | Loss = 7233185.0117187500
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 15 | Loss = 73980526.0048828125
+Valid Summary | Epoch 15 | Loss = 7387365.8217773438
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 16 | Loss = 73535248.1230468750
+Valid Summary | Epoch 16 | Loss = 7265353.2207031250
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 17 | Loss = 73293096.5864257812
+Valid Summary | Epoch 17 | Loss = 7156246.7119140625
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 18 | Loss = 73142695.7050781250
+Valid Summary | Epoch 18 | Loss = 7256442.4931640625
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 19 | Loss = 72884168.9052734375
+Valid Summary | Epoch 19 | Loss = 7326451.6103515625
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 20 | Loss = 72654976.6254882812
+Valid Summary | Epoch 20 | Loss = 7280576.9633789062
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 21 | Loss = 72312601.9941406250
+Valid Summary | Epoch 21 | Loss = 7137462.5903320312
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 22 | Loss = 72255952.8344726562
+Valid Summary | Epoch 22 | Loss = 7141653.1806640625
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 23 | Loss = 72039813.4887695312
+Valid Summary | Epoch 23 | Loss = 7098342.6884765625
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 24 | Loss = 72108722.4550781250
+Valid Summary | Epoch 24 | Loss = 7152640.3769531250
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 25 | Loss = 71800899.8486328125
+Valid Summary | Epoch 25 | Loss = 7155026.8300781250
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 26 | Loss = 71873899.3149414062
+Valid Summary | Epoch 26 | Loss = 7208786.2592773438
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 27 | Loss = 71597020.1967773438
+Valid Summary | Epoch 27 | Loss = 7061593.2968750000
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 28 | Loss = 71457544.9003906250
+Valid Summary | Epoch 28 | Loss = 6977976.7021484375
+	Learning rate = 0.001
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 29 | Loss = 71370792.9326171875
+Valid Summary | Epoch 29 | Loss = 7180331.9584960938
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 30 | Loss = 71200012.5659179688
+Valid Summary | Epoch 30 | Loss = 7050276.1420898438
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 31 | Loss = 71173900.3969726562
+Valid Summary | Epoch 31 | Loss = 7507006.6640625000
+	Learning rate = 0.001
+---------------------------------------
+Train Summary | Epoch 32 | Loss = 71056292.6762695312
+Valid Summary | Epoch 32 | Loss = 7095649.2753906250
+	Learning rate = 0.0005
+---------------------------------------
+Train Summary | Epoch 33 | Loss = 67901133.5424804688
+Valid Summary | Epoch 33 | Loss = 6719681.6191406250
+	Learning rate = 0.0005
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 34 | Loss = 67356276.4538574219
+Valid Summary | Epoch 34 | Loss = 6696778.6416015625
+	Learning rate = 0.0005
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 35 | Loss = 67084037.2153320312
+Valid Summary | Epoch 35 | Loss = 6667801.8637695312
+	Learning rate = 0.0005
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 36 | Loss = 66926995.2709960938
+Valid Summary | Epoch 36 | Loss = 6669660.3901367188
+	Learning rate = 0.0005
+---------------------------------------
+Train Summary | Epoch 37 | Loss = 66766904.2636718750
+Valid Summary | Epoch 37 | Loss = 6658251.8476562500
+	Learning rate = 0.0005
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 38 | Loss = 66583107.1203613281
+Valid Summary | Epoch 38 | Loss = 6667886.0810546875
+	Learning rate = 0.0005
+---------------------------------------
+Train Summary | Epoch 39 | Loss = 66464567.0805664062
+Valid Summary | Epoch 39 | Loss = 6627345.3134765625
+	Learning rate = 0.0005
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 40 | Loss = 66313185.1867675781
+Valid Summary | Epoch 40 | Loss = 6665796.9716796875
+	Learning rate = 0.0005
+---------------------------------------
+Train Summary | Epoch 41 | Loss = 66251070.9387207031
+Valid Summary | Epoch 41 | Loss = 6635238.1987304688
+	Learning rate = 0.0005
+---------------------------------------
+Train Summary | Epoch 42 | Loss = 66100862.0754394531
+Valid Summary | Epoch 42 | Loss = 6571074.4165039062
+	Learning rate = 0.0005
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 43 | Loss = 66032463.5480957031
+Valid Summary | Epoch 43 | Loss = 6608701.6367187500
+	Learning rate = 0.0005
+---------------------------------------
+Train Summary | Epoch 44 | Loss = 65944052.6093750000
+Valid Summary | Epoch 44 | Loss = 6551255.9340820312
+	Learning rate = 0.0005
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 45 | Loss = 65788962.9128417969
+Valid Summary | Epoch 45 | Loss = 6579571.4462890625
+	Learning rate = 0.0005
+---------------------------------------
+Train Summary | Epoch 46 | Loss = 65770105.6657714844
+Valid Summary | Epoch 46 | Loss = 6605547.8730468750
+	Learning rate = 0.0005
+---------------------------------------
+Train Summary | Epoch 47 | Loss = 65628412.1044921875
+Valid Summary | Epoch 47 | Loss = 6557690.8354492188
+	Learning rate = 0.0005
+---------------------------------------
+Train Summary | Epoch 48 | Loss = 65515276.6286621094
+Valid Summary | Epoch 48 | Loss = 6600750.0747070312
+	Learning rate = 0.00025
+---------------------------------------
+Train Summary | Epoch 49 | Loss = 63606905.1977539062
+Valid Summary | Epoch 49 | Loss = 6379125.8100585938
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 50 | Loss = 63243173.4318847656
+Valid Summary | Epoch 50 | Loss = 6361115.7949218750
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 51 | Loss = 63100294.4221191406
+Valid Summary | Epoch 51 | Loss = 6340005.4492187500
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 52 | Loss = 62957780.4221191406
+Valid Summary | Epoch 52 | Loss = 6335671.6953125000
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 53 | Loss = 62846094.1813964844
+Valid Summary | Epoch 53 | Loss = 6345419.2050781250
+	Learning rate = 0.00025
+---------------------------------------
+Train Summary | Epoch 54 | Loss = 62724840.5468750000
+Valid Summary | Epoch 54 | Loss = 6327547.6635742188
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 55 | Loss = 62648441.7792968750
+Valid Summary | Epoch 55 | Loss = 6305401.8554687500
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 56 | Loss = 62554580.3027343750
+Valid Summary | Epoch 56 | Loss = 6320922.2348632812
+	Learning rate = 0.00025
+---------------------------------------
+Train Summary | Epoch 57 | Loss = 62466637.9357910156
+Valid Summary | Epoch 57 | Loss = 6299444.7861328125
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 58 | Loss = 62386681.8300781250
+Valid Summary | Epoch 58 | Loss = 6289626.7416992188
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 59 | Loss = 62329304.4213867188
+Valid Summary | Epoch 59 | Loss = 6280451.7915039062
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 60 | Loss = 62247775.2553710938
+Valid Summary | Epoch 60 | Loss = 6280721.6347656250
+	Learning rate = 0.00025
+---------------------------------------
+Train Summary | Epoch 61 | Loss = 62176768.7443847656
+Valid Summary | Epoch 61 | Loss = 6270683.7075195312
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 62 | Loss = 62142179.7446289062
+Valid Summary | Epoch 62 | Loss = 6285004.9458007812
+	Learning rate = 0.00025
+---------------------------------------
+Train Summary | Epoch 63 | Loss = 62062257.2534179688
+Valid Summary | Epoch 63 | Loss = 6270462.9184570312
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 64 | Loss = 62050139.1445312500
+Valid Summary | Epoch 64 | Loss = 6272638.0004882812
+	Learning rate = 0.00025
+---------------------------------------
+Train Summary | Epoch 65 | Loss = 62008630.0734863281
+Valid Summary | Epoch 65 | Loss = 6225747.5219726562
+	Learning rate = 0.00025
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 66 | Loss = 61929066.5422363281
+Valid Summary | Epoch 66 | Loss = 6278506.7822265625
+	Learning rate = 0.00025
+---------------------------------------
+Train Summary | Epoch 67 | Loss = 61880262.4843750000
+Valid Summary | Epoch 67 | Loss = 6259176.3208007812
+	Learning rate = 0.00025
+---------------------------------------
+Train Summary | Epoch 68 | Loss = 61854831.9968261719
+Valid Summary | Epoch 68 | Loss = 6243087.0512695312
+	Learning rate = 0.00025
+---------------------------------------
+Train Summary | Epoch 69 | Loss = 61842271.0566406250
+Valid Summary | Epoch 69 | Loss = 6249303.9838867188
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 70 | Loss = 60604454.9370117188
+Valid Summary | Epoch 70 | Loss = 6131644.2187500000
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 71 | Loss = 60399376.2299804688
+Valid Summary | Epoch 71 | Loss = 6123412.5800781250
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 72 | Loss = 60291587.2189941406
+Valid Summary | Epoch 72 | Loss = 6128274.0429687500
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 73 | Loss = 60213988.9492187500
+Valid Summary | Epoch 73 | Loss = 6113040.0234375000
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 74 | Loss = 60149544.3540039062
+Valid Summary | Epoch 74 | Loss = 6116852.3281250000
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 75 | Loss = 60097073.8283691406
+Valid Summary | Epoch 75 | Loss = 6100600.4438476562
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 76 | Loss = 60050727.0478515625
+Valid Summary | Epoch 76 | Loss = 6129595.2348632812
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 77 | Loss = 60007886.5568847656
+Valid Summary | Epoch 77 | Loss = 6112290.9970703125
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 78 | Loss = 59944996.6987304688
+Valid Summary | Epoch 78 | Loss = 6103648.3544921875
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 79 | Loss = 59909698.4621582031
+Valid Summary | Epoch 79 | Loss = 6093370.4877929688
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 80 | Loss = 59870185.9833984375
+Valid Summary | Epoch 80 | Loss = 6096382.5883789062
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 81 | Loss = 59831608.8239746094
+Valid Summary | Epoch 81 | Loss = 6073373.0146484375
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 82 | Loss = 59785402.0061035156
+Valid Summary | Epoch 82 | Loss = 6069748.6489257812
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 83 | Loss = 59741479.9533691406
+Valid Summary | Epoch 83 | Loss = 6086788.1904296875
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 84 | Loss = 59707837.2646484375
+Valid Summary | Epoch 84 | Loss = 6113990.4980468750
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 85 | Loss = 59677055.1020507812
+Valid Summary | Epoch 85 | Loss = 6066823.5551757812
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 86 | Loss = 59612075.5988769531
+Valid Summary | Epoch 86 | Loss = 6054842.7207031250
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 87 | Loss = 59590205.3640136719
+Valid Summary | Epoch 87 | Loss = 6066795.6079101562
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 88 | Loss = 59574331.4501953125
+Valid Summary | Epoch 88 | Loss = 6055614.3520507812
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 89 | Loss = 59526699.6730957031
+Valid Summary | Epoch 89 | Loss = 6067416.8901367188
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 90 | Loss = 59476341.5654296875
+Valid Summary | Epoch 90 | Loss = 6053070.5043945312
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 91 | Loss = 59443322.1457519531
+Valid Summary | Epoch 91 | Loss = 6040761.4770507812
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 92 | Loss = 59439880.5190429688
+Valid Summary | Epoch 92 | Loss = 6038946.0327148438
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 93 | Loss = 59402235.2976074219
+Valid Summary | Epoch 93 | Loss = 6112431.4916992188
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 94 | Loss = 59370871.1865234375
+Valid Summary | Epoch 94 | Loss = 6050095.3398437500
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 95 | Loss = 59350584.5019531250
+Valid Summary | Epoch 95 | Loss = 6043831.3066406250
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 96 | Loss = 59320815.5800781250
+Valid Summary | Epoch 96 | Loss = 6013940.0585937500
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 97 | Loss = 59295000.8615722656
+Valid Summary | Epoch 97 | Loss = 6003360.5371093750
+	Learning rate = 0.000125
+Solver for best model saved at 'out/pkls/0623_fasnet_tac.pkl'.
+---------------------------------------
+Train Summary | Epoch 98 | Loss = 59275810.1477050781
+Valid Summary | Epoch 98 | Loss = 6023046.4418945312
+	Learning rate = 0.000125
+---------------------------------------
+Train Summary | Epoch 99 | Loss = 59278976.4797363281
+Valid Summary | Epoch 99 | Loss = 6005766.1118164062
+	Learning rate = 0.000125
+---------------------------------------
+
+*** FINISHED TRAINING ***
